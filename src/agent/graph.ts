@@ -58,6 +58,7 @@ const callModel = async (
    */
   console.log("Current state:", state);
   console.log("yo");
+  console.log("another");
   return {
     messages: [
       {
